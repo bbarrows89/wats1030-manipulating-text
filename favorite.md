@@ -1,7 +1,7 @@
 # Bryan's Favorite Text Editor
 
-### Nano
-##### (honorable mention: Emacs)
+## Nano
+#### (honorable mention: Emacs)
 
 Nano wound up being my favorite editor because I found it to be the easiest to use.
 
